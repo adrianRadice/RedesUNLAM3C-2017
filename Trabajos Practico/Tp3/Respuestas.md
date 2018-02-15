@@ -41,7 +41,9 @@ Broadcast: 199.37.2.39
 
 ### La subred obtenida en el punto anterior vuelve a subdividirse, tomandose ahora 6 bit mas de subnetting (120.77.2.50/18). Indicar:
 a. Rengo de subredes disponibles: 120.0.0.0 .. 120.255.192.0
+
 b. Cantidad de host en cada subred:  2 ^ ( 32 - 18 ) - 2
+
 c. Para la ultima subred permitida obtener:
  1.  Direccion del gw: 120.255.192.1
  1.  Direccion del 1 host: 120.255.192.2
