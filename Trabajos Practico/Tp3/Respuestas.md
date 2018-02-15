@@ -34,10 +34,10 @@ Broadcast: 199.37.2.39
 ```
 
 ### Cual es la direccion de red, broadcast y host validos a la cual pertence el host 120.77.2.50 con 12 bits de subnetting.
-Direccion de red: 120.64.0.0
-Broadcast: 120.79.255.255
-Cant Host validos: 2 ^ ( 32 - 12 ) - 2
-Rango Host validos: 120.64.0.1 - 120.79.255.254
+* Direccion de red: 120.64.0.0
+* Broadcast: 120.79.255.255
+* Cant Host validos: 2 ^ ( 32 - 12 ) - 2
+* Rango Host validos: 120.64.0.1 - 120.79.255.254
 
 ### La subred obtenida en el punto anterior vuelve a subdividirse, tomandose ahora 6 bit mas de subnetting (120.77.2.50/18). Indicar:
 a. Rengo de subredes disponibles: 120.0.0.0 .. 120.255.192.0
